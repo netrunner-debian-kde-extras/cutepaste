@@ -1,0 +1,14 @@
+Source: cutepaste
+Section: net
+Priority: extra
+Maintainer: Howard Chan <smartboyhw@gmail.com>
+Build-Depends: debhelper (>= 9), cmake
+Standards-Version: 3.9.4
+Homepage: https://projects.kde.org/projects/playground/network/cutepaste
+
+Package: cutepaste
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Client application for paste.kde.org written in Qt
+ cutepaste is a client application which pastes text
+ to paste.kde.org.

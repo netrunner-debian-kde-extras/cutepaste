@@ -1,0 +1,2 @@
+version=3
+ftp://ftp.kde.org/pub/kde/unstable/cutepaste/([\d\.]*)/src/cutepaste-([\d\.]*).(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
