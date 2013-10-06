@@ -5,7 +5,10 @@ Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
 Uploaders: Howard Chan <smartboyhw@gmail.com>
 Build-Depends: debhelper (>= 9), cmake (>= 2.8.11), qtbase5-dev, pkg-kde-tools
 Standards-Version: 3.9.4
-Homepage: https://projects.kde.org/projects/playground/network/cutepaste
+Homepage: http://projects.kde.org/projects/playground/network/cutepaste
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/cutepaste.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/cutepaste.git
+
 
 Package: cutepaste
 Architecture: any
