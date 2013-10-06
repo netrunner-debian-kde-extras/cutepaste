@@ -1,7 +1,8 @@
 Source: cutepaste
 Section: net
 Priority: extra
-Maintainer: Howard Chan <smartboyhw@gmail.com>
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Uploader: Howard Chan <smartboyhw@gmail.com>
 Build-Depends: debhelper (>= 9), cmake, qtbase5-dev, pkg-kde-tools
 Standards-Version: 3.9.4
 Homepage: https://projects.kde.org/projects/playground/network/cutepaste
